@@ -1,0 +1,21 @@
+sku_id,product_name,category,abc_class,current_stock,incoming_orders,reorder_point,safety_stock,eoq,moq,case_pack,case_packs_to_order,recommended_order_qty,unit_cost,reorder_cost,supplier_lead_time_days,stockout_runway_days,inventory_status
+SKU-1005,Noise-Cancelling Over-Ear Headphones,Electronics,A,9,0,130,33,110,10,5,47,235,75.0,17625.0,21.0,2.0,CRITICAL
+SKU-1018,Slim-Fit Stretch Denim Jeans,Apparel,A,26,0,302,73,400,30,10,68,680,16.5,11220.0,16.0,1.8,CRITICAL
+SKU-1007,Portable Power Bank 20000mAh,Electronics,A,16,0,145,34,320,40,20,23,460,16.0,7360.0,14.0,2.0,CRITICAL
+SKU-1010,Artisan Roasted Coffee Beans 1kg,Groceries,A,15,36,333,114,972,36,12,105,1260,8.5,10710.0,5.0,0.3,CRITICAL
+SKU-1040,Deep Tissue Foam Muscle Roller,Health & Personal Care,A,70,0,378,87,800,20,10,111,1110,7.0,7770.0,12.0,2.9,CRITICAL
+SKU-1025,Stainless Steel Non-Stick Skillet 28cm,Home & Kitchen,A,35,0,149,37,350,20,10,47,470,14.0,6580.0,12.0,3.8,CRITICAL
+SKU-1026,Double-Walled Insulated Tumbler 750ml,Home & Kitchen,B,10,0,93,24,540,40,20,32,640,5.5,3520.0,8.0,1.2,CRITICAL
+SKU-1031,Glass Airtight Meal Prep Containers 4pk,Home & Kitchen,B,18,0,127,35,380,20,10,49,490,9.0,4410.0,13.0,2.5,CRITICAL
+SKU-1021,Wool Blend Winter Knit Beanie,Apparel,B,40,0,189,47,680,40,20,42,840,4.0,3360.0,14.0,3.9,CRITICAL
+SKU-1028,Bamboo Cutting Board 3-Piece Set,Home & Kitchen,B,42,24,195,51,492,24,12,52,624,8.0,4992.0,14.0,4.1,CRITICAL
+SKU-1014,Natural Greek Yogurt 500g,Groceries,A,199,0,318,118,2604,48,12,227,2724,1.8,4903.2,3.0,3.0,REORDER NEEDED
+SKU-1030,Silicone Cooking Utensil 8-Piece Set,Home & Kitchen,A,117,0,187,54,585,25,5,131,655,6.5,4257.5,11.0,9.7,REORDER NEEDED
+SKU-1002,USB-C Fast Charging Cable 2m,Electronics,C,5,0,85,28,650,50,25,30,750,3.5,2625.0,7.0,0.6,CRITICAL
+SKU-1020,Waterproof Lightweight Windbreaker,Apparel,A,240,0,320,80,340,20,10,42,420,22.0,9240.0,18.0,18.0,REORDER NEEDED
+SKU-1006,4K Ultra HD Streaming Stick,Electronics,A,77,0,99,26,270,30,10,30,300,19.0,5700.0,10.0,10.7,REORDER NEEDED
+SKU-1034,Moisturizing Ceramide Facial Cleanser,Health & Personal Care,B,80,0,102,30,580,40,20,31,620,5.0,3100.0,8.0,8.9,REORDER NEEDED
+SKU-1039,Lavender Aromatherapy Essential Oil 30ml,Health & Personal Care,B,131,0,158,43,940,40,20,49,980,3.0,2940.0,8.0,9.2,REORDER NEEDED
+SKU-1019,Breathable Athletic Running Socks 3pk,Apparel,C,71,0,100,27,740,60,20,39,780,2.5,1950.0,10.0,9.8,REORDER NEEDED
+SKU-1013,Premium Dark Chocolate Bar 85%,Groceries,C,96,0,135,32,1550,50,25,64,1600,1.6,2560.0,5.0,4.7,REORDER NEEDED
+SKU-1038,Hand Sanitizer Gel 500ml Dispenser,Health & Personal Care,C,112,0,138,36,1620,60,30,55,1650,1.8,2970.0,4.0,4.4,REORDER NEEDED

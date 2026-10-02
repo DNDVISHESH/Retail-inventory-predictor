@@ -1,0 +1,41 @@
+sku_id,product_name,category,unit_cost,selling_price,supplier_lead_time_days,lead_time_std_days,moq,case_pack,current_stock,incoming_orders
+SKU-1001,Wireless Bluetooth Earbuds,Electronics,32.0,79.99,14.0,2.5,20,10,481,0
+SKU-1002,USB-C Fast Charging Cable 2m,Electronics,3.5,14.99,7.0,1.2,50,25,5,0
+SKU-1003,Ergonomic Mechanical Keyboard,Electronics,45.0,119.99,18.0,3.0,15,5,481,0
+SKU-1004,Smart Fitness Tracker Band,Electronics,28.0,69.99,12.0,2.0,25,10,164,0
+SKU-1005,Noise-Cancelling Over-Ear Headphones,Electronics,75.0,189.99,21.0,3.5,10,5,9,0
+SKU-1006,4K Ultra HD Streaming Stick,Electronics,19.0,49.99,10.0,1.8,30,10,77,0
+SKU-1007,Portable Power Bank 20000mAh,Electronics,16.0,39.99,14.0,2.2,40,20,160,0
+SKU-1008,Wireless Qi Desktop Charger,Electronics,11.0,27.99,9.0,1.5,30,15,111,0
+SKU-1009,Organic Cold Pressed Olive Oil 500ml,Groceries,5.2,11.49,4.0,0.8,48,12,259,0
+SKU-1010,Artisan Roasted Coffee Beans 1kg,Groceries,8.5,18.99,5.0,1.0,36,12,15,36
+SKU-1011,Whole Grain Rolled Oats 1kg,Groceries,1.4,3.99,3.0,0.5,60,20,355,0
+SKU-1012,Pure Almond Milk Unsweetened 1L,Groceries,1.2,3.49,4.0,0.6,72,24,175,0
+SKU-1013,Premium Dark Chocolate Bar 85%,Groceries,1.6,4.29,5.0,0.7,50,25,96,0
+SKU-1014,Natural Greek Yogurt 500g,Groceries,1.8,4.49,3.0,0.4,48,12,199,0
+SKU-1015,Grade-A Wildflower Honey 400g,Groceries,4.0,9.99,6.0,1.0,36,12,398,0
+SKU-1016,Organic Green Tea Bags 50ct,Groceries,2.2,6.49,5.0,0.8,40,20,710,0
+SKU-1017,Cotton Classic Crewneck T-Shirt,Apparel,4.8,19.99,12.0,2.0,50,25,958,0
+SKU-1018,Slim-Fit Stretch Denim Jeans,Apparel,16.5,54.99,16.0,2.8,30,10,26,0
+SKU-1019,Breathable Athletic Running Socks 3pk,Apparel,2.5,12.99,10.0,1.5,60,20,71,0
+SKU-1020,Waterproof Lightweight Windbreaker,Apparel,22.0,69.99,18.0,3.0,20,10,240,0
+SKU-1021,Wool Blend Winter Knit Beanie,Apparel,4.0,16.99,14.0,2.0,40,20,40,0
+SKU-1022,Casual Canvas Everyday Sneakers,Apparel,18.0,59.99,20.0,3.5,24,12,549,0
+SKU-1023,Thermal Base Layer Leggings,Apparel,7.5,24.99,15.0,2.2,30,15,113,0
+SKU-1024,Polarized UV400 Sunglasses,Apparel,6.0,29.99,11.0,1.8,30,10,219,0
+SKU-1025,Stainless Steel Non-Stick Skillet 28cm,Home & Kitchen,14.0,39.99,12.0,2.0,20,10,35,0
+SKU-1026,Double-Walled Insulated Tumbler 750ml,Home & Kitchen,5.5,19.99,8.0,1.2,40,20,10,0
+SKU-1027,Microfiber Cleaning Towels 12pk,Home & Kitchen,3.2,12.99,6.0,1.0,60,20,246,0
+SKU-1028,Bamboo Cutting Board 3-Piece Set,Home & Kitchen,8.0,26.99,14.0,2.5,24,12,42,24
+SKU-1029,Scented Soy Wax Candle Jar,Home & Kitchen,3.8,14.99,9.0,1.4,36,12,241,0
+SKU-1030,Silicone Cooking Utensil 8-Piece Set,Home & Kitchen,6.5,22.99,11.0,1.8,25,5,117,0
+SKU-1031,Glass Airtight Meal Prep Containers 4pk,Home & Kitchen,9.0,29.99,13.0,2.0,20,10,18,0
+SKU-1032,Memory Foam Ergonomic Seat Cushion,Home & Kitchen,11.5,34.99,15.0,2.5,20,10,771,0
+SKU-1033,Daily Multivitamin Gummies 90ct,Health & Personal Care,4.5,15.99,7.0,1.2,48,24,234,0
+SKU-1034,Moisturizing Ceramide Facial Cleanser,Health & Personal Care,5.0,16.99,8.0,1.5,40,20,80,0
+SKU-1035,Mineral Sunscreen SPF 50 Broad Spectrum,Health & Personal Care,4.2,14.49,7.0,1.0,50,25,490,0
+SKU-1036,Natural Tea Tree Oil Shampoo 400ml,Health & Personal Care,3.5,11.99,6.0,1.0,48,12,312,0
+SKU-1037,Sonic Electric Toothbrush Replacement Heads,Health & Personal Care,4.0,18.99,10.0,1.8,40,20,755,0
+SKU-1038,Hand Sanitizer Gel 500ml Dispenser,Health & Personal Care,1.8,5.99,4.0,0.5,60,30,112,0
+SKU-1039,Lavender Aromatherapy Essential Oil 30ml,Health & Personal Care,3.0,12.49,8.0,1.2,40,20,131,0
+SKU-1040,Deep Tissue Foam Muscle Roller,Health & Personal Care,7.0,24.99,12.0,2.0,20,10,70,0
